@@ -24,7 +24,7 @@
         <a class="nav-link text-white" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link  text-white" href="#owner">Owner</a>
+        <a class="nav-link  text-white" href="#owner">Playlist</a>
       </li>
       <li class="nav-item">
         <a class="nav-link text-white" href="#member">Member</a>
